@@ -1,3 +1,29 @@
+# TuyaOpen
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Next-gen AI+IoT framework for T2/T3/T5AI/ESP32/and more – Fast IoT and AI Agent hardware integration
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+面向 T2、T3、T5AI、ESP32 等硬件的新一代 AI 加 IoT 框架，快速集成 IoT 与 AI Agent 硬件。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <p align="center">
 <img src="https://images.tuyacn.com/fe-static/docs/img/c128362b-eb25-4512-b5f2-ad14aae2395c.jpg" width="100%" >
 </p>
